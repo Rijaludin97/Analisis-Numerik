@@ -12,5 +12,5 @@ total2 = 0.0
 x_awal2 = 0.00001
 for _ in range(100000):
   total2 += x_awal2
-  total2 += 100000
+total2 += 100000
 print(f"Hasil Algoritma 2 : {total2}")
